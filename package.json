@@ -1,0 +1,16 @@
+{
+  "name": "arocalculator",
+  "version": "1.1.0",
+  "description": "A simple npm calculator that implements basic calculator functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "calculator"
+  ],
+  "type": "module",
+  "author": "Ahmad Aroyehun",
+  "license": "ISC"
+}
